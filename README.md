@@ -20,20 +20,23 @@
 
 <p align=center>
   <a href="http://www.github.com/TheJaguyer">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheJaguyer&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Jarrett's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheJaguyer&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Jarrett's GitHub Stats" />
   </a>
-    <a href="http://www.github.com/TheJaguyer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJaguyer&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
+  <a href="http://www.github.com/TheJaguyer">
+    <img src="https://streak-stats.demolab.com/?user=TheJaguyer&theme=dark" alt="Jarrett's GitHub Stats" />
   </a>
+    
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=TheJaguyer&theme=dark)](https://git.io/streak-stats) -->
+
 </p>
 
-<h2 align='center' paddingBottom='10px'>Projects:</h2>
+<h1 align='center' paddingBottom='10px'>Projects:</h2>
   
 <div align='center'>
   
-  [Technical Interview Application](https://github.com/TheJaguyer/admissions-hub) - Team Capstone Project
+[Technical Interview Application](https://github.com/TheJaguyer/admissions-hub) - Team Capstone Project
   
-  [Amazon Product Page Clone](https://github.com/TheJaguyer/FEC-Amazon-Clone) - Front End Capstone
+[Amazon Product Page Clone](https://github.com/TheJaguyer/FEC-Amazon-Clone) - Front End Capstone
 
 [Logico: Circuit Construct Web app](https://github.com/TheJaguyer/logico-react-mvp) - Solo MVP
 
