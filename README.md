@@ -23,11 +23,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TheJaguyer&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Jarrett's GitHub Stats" />
   </a>
   <a href="http://www.github.com/TheJaguyer">
-    <img src="https://streak-stats.demolab.com/?user=TheJaguyer&theme=dark" alt="Jarrett's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=TheJaguyer&mode=weekly" alt="Jarrett's GitHub Streak" />
   </a>
-    
-  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=TheJaguyer&theme=dark)](https://git.io/streak-stats) -->
-
 </p>
 
 <h1 align='center' paddingBottom='10px'>Projects:</h2>
