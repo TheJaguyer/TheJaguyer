@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer and Web Dev...;Life Long Learner and Tech Nerd...;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer and Web Dev...;Life Long Learner and Tech Lover...;" />
 </div>
 
 <p align='center'>
