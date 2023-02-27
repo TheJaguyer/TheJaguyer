@@ -1,27 +1,29 @@
 <h1 align='center' paddingBottom='10px'>
-  Welcome to Gabe-Hub
+  Welcome to Jarrett Guyer's Github
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+Software+Engineer+and+Technophile...;Growth+Mindset+/+Lifelong+Learner..." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer and Web Dev...;Life Long Learner and Tech Nerd...;" />
 </div>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/gabehribik/" target="_blank" rel="noreferrer noopener">
+  <a href="https://www.linkedin.com/in/thejaguyer/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-  <a href="mailto:g.hribik@gmail.com">
+  <a href="mailto:guyer.jarrett@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-     <img src="https://komarev.com/ghpvc/?username=ghribik&style=for-the-badge" />
   </a> 
-</p> 
+    <a href="https://github.com/TheJaguyer/">
+     <img src="https://komarev.com/ghpvc/?username=TheJaguyer&style=for-the-badge" />
+  </a> 
+</p>
 
 <p align=center>
-  <a href="http://www.github.com/ghribik">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghribik&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Gabe's GitHub stats" />
+  <a href="http://www.github.com/TheJaguyer">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheJaguyer&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Jarrett's GitHub stats" />
   </a>
-  <a href="http://www.github.com/ghribik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghribik&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
+    <a href="http://www.github.com/TheJaguyer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJaguyer&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
   </a>
 </p>
 
@@ -29,10 +31,12 @@
   
 <div align='center'>
   
-  [Live Coding Interview Hub](https://github.com/ghribik/admissions-hub) - Group capstone project
+  [Technical Interview Application](https://github.com/TheJaguyer/admissions-hub) - Team Capstone Project
   
-  [Treat Yo' Shelf](https://github.com/ghribik/Bookstore_App) - Solo book store/inventory application
-  
+  [Amazon Product Page Clone](https://github.com/TheJaguyer/FEC-Amazon-Clone) - Front End Capstone
+
+[Logico: Circuit Construct Web app](https://github.com/TheJaguyer/logico-react-mvp) - Solo MVP
+
 </div>
 
 <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
