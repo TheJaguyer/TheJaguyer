@@ -36,6 +36,8 @@
 [Amazon Product Page Clone](https://github.com/TheJaguyer/FEC-Amazon-Clone) - Front End Capstone
 
 [Logico: Circuit Construct Web app](https://github.com/TheJaguyer/logico-react-mvp) - Solo MVP
+  
+[Pixel Art Maker](https://github.com/TheJaguyer/Pixel-Art-Maker) - First Interactive Web Application
 
 </div>
 
