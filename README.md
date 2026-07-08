@@ -24,19 +24,6 @@
   </a>
 </p>
 
-<h1 align='center' paddingBottom='10px'>Projects:</h2>
-  
-<div align='center'>
-  
-[Technical Interview Application](https://github.com/TheJaguyer/admissions-hub) - Team Capstone Project
-  
-[Amazon Product Page Clone](https://github.com/TheJaguyer/FEC-Amazon-Clone) - Front End Capstone
-
-[Logico: Circuit Construct Web app](https://github.com/TheJaguyer/logico-react-mvp) - Solo MVP
-  
-[Pixel Art Maker](https://github.com/TheJaguyer/Pixel-Art-Maker) - First Interactive Web Application
-
-</div>
 
 <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
 
