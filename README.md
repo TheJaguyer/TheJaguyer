@@ -22,14 +22,6 @@ I'm a full-stack software engineer and technical lead based in the Pacific North
 
 Before software, I served as an Army officer and studied physics at West Point. I bring that same mission-first, detail-oriented mindset to engineering.
 
-- 🚀 Lead Developer on a U.S. Space Force contract (FWDThink), building secure, high-traffic web applications
-- 🧠 Architected a Python ML application that ranks budget proposals to support allocation of **$35B** in R&D funding
-- 🔐 Built backend systems in an Azure Impact Level 5 environment, replacing legacy authentication, data-processing, and data-storage capabilities
-- ⚡ Sped up app and data-loading workflows **4x** and restructured relational datasets for **10K active users** with no data loss
-- 🎨 Helped establish the **Atlas Design System**, a reusable UI component library adopted across multiple Space Force software factories
-- 👥 Apps serve **5,000+ daily users**; I lead code reviews and mentor senior and junior engineers
-- 🎓 Former software engineering instructor: taught JavaScript and fundamentals to 30+ engineers
-
 ---
 
 ## Tech Stack
@@ -87,19 +79,6 @@ Before software, I served as an Army officer and studied physics at West Point. 
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **Self-hosted Matrix stack** | A private, encrypted chat server for my friend group (D&D coordination and more), deployed with Docker Compose and scripted setup. Includes voice and video, a reverse proxy, a Cloudflare tunnel, and full-disk encryption. | Synapse, Element Web, LiveKit, coturn, Caddy, Postgres, Docker, Shell |
-| **Shutter** | A Slack bot built for a take-home project. Handles image workflows with storage, scheduled jobs, validation, and structured logging. | TypeScript, Node 24, Slack Bolt, Prisma, Postgres, AWS S3, Anthropic SDK, zod, pino, sharp, Docker |
-| **Custom streaming boxes and remotes** | A set of Raspberry Pi 5 media boxes and matching rechargeable Bluetooth remotes with 3D-printed cases, built as gifts. | Raspberry Pi 5, LibreELEC/Kodi, ESP32-C3 (BLE HID), Go, Rust, TypeScript |
-| **System design notes** | Study notes on API gateways, Postgres, Flink, scaling reads and writes, realtime updates, contention, and large blobs. | Architecture, distributed systems |
-
-> Add repo links to each project name once the repos are public.
 
 ---
 
