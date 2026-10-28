@@ -74,7 +74,7 @@ Before software, I served as an Army officer and studied physics at West Point. 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Hardware and Embedded (Hobby)
+### Hardware and Embedded
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -88,9 +88,7 @@ Before software, I served as an Army officer and studied physics at West Point. 
   <a href="https://github.com/TheJaguyer">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheJaguyer&show_icons=true&count_private=true&title_color=14b8a6&text_color=9ca3af&icon_color=14b8a6&bg_color=00000000&hide_border=true" alt="Jarrett's GitHub Stats" />
   </a>
-  <a href="https://github.com/TheJaguyer">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJaguyer&layout=compact&langs_count=8&title_color=14b8a6&text_color=9ca3af&bg_color=00000000&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheJaguyer&layout=compact&langs_count=8&title_color=14b8a6&text_color=9ca3af&bg_color=00000000&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
